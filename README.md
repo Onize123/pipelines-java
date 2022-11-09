@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Sanni-O/Implementing%20CI-CD%20Pipeline/_apis/build/status/Onize123.pipelines-java?branchName=main)](https://dev.azure.com/Sanni-O/Implementing%20CI-CD%20Pipeline/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
